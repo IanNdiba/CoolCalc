@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoolCalc</string>
+    <string name="visualText">Result of Operation:</string>
+    <string name="resultText">Answer</string>
+    <string name="button_name">Click Me</string>
+    <string name="firstNum">Enter Number</string>
+    <string name="secondNum">Enter Number</string>
+    <string name="hints">HINTS: "\n"Tap button to Add \n...OR....\nDouble Tap button to substract</string>
+</resources>
